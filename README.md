@@ -238,3 +238,6 @@ This repository serves as the official landing page for STOIK Video Converter. T
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of STOIK Video Converter today!**
+
+---
+**Last updated:** 2026-09-10 07:00:02 UTC
